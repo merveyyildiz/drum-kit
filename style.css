@@ -1,0 +1,9 @@
+    .drum:hover {
+      cursor: pointer;
+    }
+    .bigger {
+      transform: scale(1.5);
+    }
+   .body{
+     margin:0px;
+   }
